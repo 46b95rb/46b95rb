@@ -1,4 +1,4 @@
-### Hello There👋
+### Hello There 👋
 
 I am Fazle, a self-taught programmer and a high school student from Indonesia. I love to learn and build some web applications, javascript libraries, also doing some coding challange with Javascript 👀
 
@@ -9,6 +9,6 @@ I am Fazle, a self-taught programmer and a high school student from Indonesia. I
 - Website: **<https://kucingkode.github.io>**
 - Other: **[Chess.com](https://www.chess.com/member/kucingkodechess) | [Github](https://github.com/KucingKode)**
 
-## 📈 Github Stats
+### 📈 Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=kucingkode&theme=nord&show_icons=true&hide_border=true" width="430"/>
