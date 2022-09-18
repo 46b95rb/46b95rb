@@ -4,4 +4,4 @@ I am Radit, a high school student from Indonesia. I'm currently learning Python,
 
 ## 💬 Let's Connect
 
-- Instagram: **[Instagram](https://instagram.com/radit_635)**
+- Social Media: **[Instagram](https://instagram.com/radit_635)**
