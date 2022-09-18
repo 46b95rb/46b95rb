@@ -1,8 +1,7 @@
 ## Hello There 👋
 
-I am , a self-taught programmer and a high school student from Indonesia. I love to learn and build some web applications, javascript libraries, also doing some coding challange with Javascript 👀
+I am Radit, a high school student from Indonesia. I'm currently learning Python, HTML, and CSS. Projects will be uploaded to Github in the future!
 
 ## 💬 Let's Connect
 
-Test
-
+- Instagram: **[Instagram](https://instagram.com/radit_635)**
